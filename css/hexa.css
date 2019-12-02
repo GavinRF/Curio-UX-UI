@@ -18,6 +18,8 @@ body{
     border-radius: 8px;
   /*   position: absolute; */
     mix-blend-mode: multiply;
+    cursor: pointer;
+    transition: all .3s;
   }
   
   div:nth-of-type(1){
