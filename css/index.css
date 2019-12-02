@@ -1,5 +1,12 @@
 body{
+    margin: 0px;
+    padding: 45px;
     background-color: rgb(174, 243, 248);
+    background-image: url(../img/fractal-top-border.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: difference;
 }
 
 #link-grid{
