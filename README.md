@@ -9,7 +9,9 @@ Try something out, see what you can do with basic code. Extend it to the nth deg
   <li>Make it interactive! (CSS :hover is technically all it takes, but I think you can do better)</li>
   <li>link your page to the home navigation</li>
   <li>Create a link on the index.html page to your design</li>
+  <li>Make a new branch</li>
   <li>Create a pull request</li>
+  <li><b>Try out whatever you want!</b></li>
 </ul>
 
 <a href="https://gavinrf.github.io/Curio-UX-UI/">LIVE LINK</a>
